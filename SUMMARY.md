@@ -1,11 +1,11 @@
 # Summary
 
 * [前言](README.md)
-* [Java并发\(一\)：原子性、可见性、有序性](1.md)
-* [Java并发\(二\)：volatile关键字](Java并发%28二%29：volatile关键字.md)
-* [Java并发\(三\)：Unsafe和CAS.md](Java并发%28三%29：Unsafe和CAS.md)
-* [Java并发\(四\)：LockSupport.md](Java并发%28四%29：LockSupport.md)
-* [Java并发\(五\)：AQS框架.md](Java并发%28五%29：AQS框架.md)
-* [Java并发\(六\)：ReentrantLock、synchronized.md](Java并发%28六%29：ReentrantLock、synchronized.md)
-* [Java并发\(七\)：JCF线程安全问题.md](Java并发%28七%29：JCF线程安全问题.md)
+* [Java并发\(一\)：原子性、可见性、有序性](chapter01.md)
+* [Java并发\(二\)：volatile关键字](chapter02.md)
+* [Java并发\(三\)：Unsafe和CAS.md](chapter03.md)
+* [Java并发\(四\)：LockSupport.md](chapter04.md)
+* [Java并发\(五\)：AQS框架.md](chapter05.md)
+* [Java并发\(六\)：ReentrantLock、synchronized.md](chapter06.md)
+* [Java并发\(七\)：JCF线程安全问题.md](chapter07.md)
 
