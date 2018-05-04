@@ -1,7 +1,7 @@
 # Summary
 
 * [前言](README.md)
-* [Java并发\(一\)：原子性、可见性、有序性](Java并发%28一%29：原子性、可见性、有序性.md)
+* [Java并发\(一\)：原子性、可见性、有序性](1.md)
 * [Java并发\(二\)：volatile关键字](Java并发%28二%29：volatile关键字.md)
 * [Java并发\(三\)：Unsafe和CAS.md](Java并发%28三%29：Unsafe和CAS.md)
 * [Java并发\(四\)：LockSupport.md](Java并发%28四%29：LockSupport.md)
