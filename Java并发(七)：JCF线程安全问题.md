@@ -1,5 +1,4 @@
-
-
+# Java并发(六)：ReentrantLock、synchronized
 
 Jdk本身给我实现了很多数据结构，例如List、Set、Queue以及Map等。但是这些类都不是线程安全的，在Jdk1.0的时候提供了<code>Hashtable</code>、<code>Vector</code>以及<code>Stack</code>这些线程安全集合，但由于它们只是在原来集合的基础上通过关键字<code>synchronized</code>来保证功能的**原子性和可见性**，这样做的缺点就是效率地下，当有一个线程执行get的时候，其它所有线程都被阻塞。
 
