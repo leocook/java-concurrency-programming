@@ -1,4 +1,4 @@
-# chapter01-Java并发(一)：原子性、可见性、有序性
+# Java并发(一)：原子性、可见性、有序性
 
 关键词：原子性、可见性、有序性、volatile、happen-before
 

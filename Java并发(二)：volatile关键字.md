@@ -1,3 +1,5 @@
+# Java并发(二)：volatile关键字
+
 关键词：volatile、happen-before、内存屏障
 
 在阅读Java并发编程相关的jdk源码中，有个关键字<code>volatile</code>会经常看到，在并发编程中偶尔也会用到该关键字，但是在使用它的过程中又很容易引起混淆。
