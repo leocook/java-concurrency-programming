@@ -1,4 +1,4 @@
-# Java并发(五)：AQS框架.md
+# Java并发(五)：AQS框架
 关键词：AQS CLH 
 
 <code>AQS</code>指的是<code>java.util.concurrent.locks.AbstractQueuedSynchronizer</code>这个类，在阅读Jdk源码时，你会发现这个类是<code>java.util.concurrent</code>包的核心。
