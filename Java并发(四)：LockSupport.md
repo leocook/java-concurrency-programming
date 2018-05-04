@@ -1,6 +1,7 @@
 
 
 # Java并发(四)：LockSupport
+
 关键词：LockSupport
 
 前面我们讨论了<code>sun.misc.Unsafe</code>类，该类提供了面向操作系统直接操作内存和CPU的方法，例如分配内心和阻塞线程等等。但是该类在使用时是不安全的，所以jdk在不同的场景下对它做了不同的包装。
