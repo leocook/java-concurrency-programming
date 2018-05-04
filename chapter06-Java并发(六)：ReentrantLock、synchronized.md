@@ -1,14 +1,3 @@
----
-layout: post
-comments: true
-date: 2017-07-16
-categories: java
-tags: ReentrantLock synchronized
----
-
-* content
-{:toc}
-
 
 ReentrantLock是基于AQS设计的可重入锁，synchronized是基于对象监视器实现的可重入锁。使用了它们后，代码都会具有原子性（atomicity）和 可见性（visibility）。
 
